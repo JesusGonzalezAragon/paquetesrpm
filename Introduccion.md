@@ -7,10 +7,10 @@ Desarrollado inicialmente por **Red Hat** para Red Hat Linux, es ampliamente uti
 
 Entre las características de **RPM** están:
 
-* Los paquetes pueden ser cifrados y verificados con GPG y MD5.
-* Los archivos de código fuente (por ejemplo .tar.gz, .tar.bz2) están incluidos en SRPMs [^1], posibilitando una verificación posterior.
-* PatchRPMs [^2] y DeltaRPMs [^3], que son equivalentes a ficheros parche, pueden actualizar incrementalmente los paquetes **RPM** instalados.
-* Las dependencias pueden ser resueltas automáticamente por el gestor de paquetes.
+1. Los paquetes pueden ser cifrados y verificados con GPG y MD5.
+2. Los archivos de código fuente (por ejemplo .tar.gz, .tar.bz2) están incluidos en SRPMs [^1], posibilitando una verificación posterior.
+3. PatchRPMs [^2] y DeltaRPMs [^3], que son equivalentes a ficheros parche, pueden actualizar incrementalmente los paquetes **RPM** instalados.
+4. Las dependencias pueden ser resueltas automáticamente por el gestor de paquetes.
 
 ---
 [^1]: Son paquetes que contienen el código fuente y la información de construcción necesaria para compilar e instalar un programa en un sistema basado en RPM.
