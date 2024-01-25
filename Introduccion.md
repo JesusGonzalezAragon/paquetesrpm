@@ -2,7 +2,7 @@
 
 > Consisten en un conjunto de archivos que permiten la instalación de un programa y sus tareas relacionadas pensada para GNU/Linux. Es capaz de instalar, actualizar, desinstalar, verificar y solicitar programas. 
 ---
-Desarrollado inicialmente por la empresa **Red Hat** por el fundador de la misma, Marc Ewing y el ingeniero Erik W. Troan para Red Hat Linux, es ampliamente utilizado en varias distribuciones como Fedora, Mageia, openSUSE y SuSE Linux.
+Desarrollado inicialmente por la empresa **Red Hat** por el fundador de la misma, Marc Ewing y el ingeniero Erik W. Troan para Red Hat Linux, es ampliamente utilizado en varias distribuciones como Fedora, Mageia, openSUSE y SuSE Linux, entre otras.
 
 
 Entre las características de **RPM** están:
