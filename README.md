@@ -3,7 +3,7 @@
 
 ¿Qué son los paquetes rpm?
 
-2.-Distribución Rocky Linux
+2.-[Distribución Rocky Linux](Caracteristicas.md)
 
 Características de esta distribución.
 
