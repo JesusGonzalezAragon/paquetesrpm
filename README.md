@@ -17,5 +17,6 @@ En qué ficheros se guardan los repositorios.
 ## 5.- Webgrafía:
 
 https://es.wikipedia.org/wiki/Marc_Ewing
-
 https://es.wikipedia.org/wiki/RPM_Package_Manager
+https://wiki.rockylinux.org/rocky/repo/
+https://rockylinux.org/
