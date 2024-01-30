@@ -8,7 +8,7 @@
 
 Características de esta distribución.
 
-## 3.- Repositorios
+## 3.- [Repositorios](repo.md)
 
 En qué ficheros se guardan los repositorios.
 
