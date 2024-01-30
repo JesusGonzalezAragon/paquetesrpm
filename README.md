@@ -1,3 +1,4 @@
+![Rockymagen](/img/rockymagen.png)
 # Paquetes PRM
 1.- [Introducción](Introduccion.md)
 
