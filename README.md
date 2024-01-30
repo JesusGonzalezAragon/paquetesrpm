@@ -12,11 +12,14 @@ Características de esta distribución.
 
 En qué ficheros se guardan los repositorios.
 
-## 4.- Caso práctico.
+## 4.- [Caso práctico](https://www.youtube.com/watch?v=wqf-CAEM64k)
 
 ## 5.- Webgrafía:
 
 https://es.wikipedia.org/wiki/Marc_Ewing
+
 https://es.wikipedia.org/wiki/RPM_Package_Manager
+
 https://wiki.rockylinux.org/rocky/repo/
+
 https://rockylinux.org/
